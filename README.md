@@ -112,3 +112,8 @@ nuclei_poc_path = ""
 
 2. **Nuclei 未找到**  
    确保 `nuclei.exe` 存在于N7e工作目录下。
+
+---
+
+###Nuclei下载
+**https://github.com/projectdiscovery/nuclei/releases**
